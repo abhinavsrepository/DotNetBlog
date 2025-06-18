@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Bloggingweb.Models.VIewModels;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Bloggingweb.Controllers
 {
@@ -9,6 +10,17 @@ namespace Bloggingweb.Controllers
         {
             
             return View();
+        }
+        [HttpPost]
+        [ActionName("Add")]
+        public IActionResult Add(AddTagRequest addTagRequest)
+        {
+            var name = addTagRequest.Name;
+            var displayName =addTagRequest.DisplayName;
+
+            
+            return View("Add");
+         
         }
     }
 }
