@@ -42,8 +42,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -54,8 +58,7 @@
               "RelativeToolTip": "Bloggingweb\\Models\\Domain\\BlogPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:41:10.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T06:41:10.799Z"
             },
             {
               "$type": "Document",
@@ -65,7 +68,7 @@
               "RelativeDocumentMoniker": "Bloggingweb\\Controllers\\AdminTagsController.cs",
               "ToolTip": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Controllers\\AdminTagsController.cs",
               "RelativeToolTip": "Bloggingweb\\Controllers\\AdminTagsController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T07:26:52.136Z",
               "EditorCaption": ""
@@ -80,8 +83,7 @@
               "RelativeToolTip": "Bloggingweb\\Views\\AdminTags\\Add.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-17T07:29:04.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T07:29:04.61Z"
             },
             {
               "$type": "Document",
@@ -93,8 +95,7 @@
               "RelativeToolTip": "Bloggingweb\\Models\\VIewModels\\AddTagRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:49:35.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:49:35.315Z"
             },
             {
               "$type": "Document",
@@ -106,8 +107,7 @@
               "RelativeToolTip": "Bloggingweb\\Data\\BloggieDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:56:31.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T06:56:31.815Z"
             },
             {
               "$type": "Document",
