@@ -58,8 +58,7 @@
               "RelativeToolTip": "Bloggingweb\\Models\\Domain\\BlogPost.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA7wAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:41:10.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T06:41:10.799Z"
             },
             {
               "$type": "Document",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "Bloggingweb\\Controllers\\AdminTagsController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T07:26:52.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T07:26:52.136Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Bloggingweb\\Models\\VIewModels\\AddTagRequest.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:49:35.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-18T17:49:35.315Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "Bloggingweb\\Models\\Domain\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:45:47.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T06:45:47.272Z"
             }
           ]
         }

@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\views\\admintags\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\views\\admintags\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\models\\viewmodels\\addtagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\models\\viewmodels\\addtagrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\models\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\models\\domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\models\\domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|c:\\users\\abhin\\desktop\\dotnetblog\\bloggingweb\\bloggingweb\\models\\domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15696159-DB9F-45CE-AC48-CF2C4F0E3383}|Bloggingweb\\Bloggingweb.csproj|solutionrelative:bloggingweb\\models\\domain\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,56 +50,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BlogPost.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Models\\Domain\\BlogPost.cs",
               "RelativeDocumentMoniker": "Bloggingweb\\Models\\Domain\\BlogPost.cs",
               "ToolTip": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Models\\Domain\\BlogPost.cs",
               "RelativeToolTip": "Bloggingweb\\Models\\Domain\\BlogPost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:41:10.799Z"
+              "WhenOpened": "2025-06-17T06:41:10.799Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "AdminTagsController.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Controllers\\AdminTagsController.cs",
               "RelativeDocumentMoniker": "Bloggingweb\\Controllers\\AdminTagsController.cs",
               "ToolTip": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Controllers\\AdminTagsController.cs",
               "RelativeToolTip": "Bloggingweb\\Controllers\\AdminTagsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T07:26:52.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Views\\AdminTags\\Add.cshtml",
               "RelativeDocumentMoniker": "Bloggingweb\\Views\\AdminTags\\Add.cshtml",
               "ToolTip": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Views\\AdminTags\\Add.cshtml",
               "RelativeToolTip": "Bloggingweb\\Views\\AdminTags\\Add.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-17T07:29:04.61Z"
+              "WhenOpened": "2025-06-17T07:29:04.61Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AddTagRequest.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Models\\VIewModels\\AddTagRequest.cs",
               "RelativeDocumentMoniker": "Bloggingweb\\Models\\VIewModels\\AddTagRequest.cs",
               "ToolTip": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Models\\VIewModels\\AddTagRequest.cs",
               "RelativeToolTip": "Bloggingweb\\Models\\VIewModels\\AddTagRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T17:49:35.315Z"
+              "WhenOpened": "2025-06-18T17:49:35.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BloggieDbContext.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Data\\BloggieDbContext.cs",
               "RelativeDocumentMoniker": "Bloggingweb\\Data\\BloggieDbContext.cs",
@@ -111,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Bloggingweb\\Views\\Shared\\_Layout.cshtml",
@@ -123,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Bloggingweb\\Controllers\\HomeController.cs",
@@ -135,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\Desktop\\DotNetBlog\\Bloggingweb\\Bloggingweb\\Models\\Domain\\Tag.cs",
               "RelativeDocumentMoniker": "Bloggingweb\\Models\\Domain\\Tag.cs",
@@ -143,7 +146,8 @@
               "RelativeToolTip": "Bloggingweb\\Models\\Domain\\Tag.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T06:45:47.272Z"
+              "WhenOpened": "2025-06-17T06:45:47.272Z",
+              "EditorCaption": ""
             }
           ]
         }
