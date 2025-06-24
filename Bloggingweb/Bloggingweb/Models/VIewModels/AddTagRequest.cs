@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Bloggingweb.Models.VIewModels
+namespace Bloggingweb.Models.ViewModels
 {
     public class AddTagRequest
     {
